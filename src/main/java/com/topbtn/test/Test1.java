@@ -13,7 +13,7 @@ import java.util.Properties;
  */
 public class Test1 extends TestCase {
     public static void main(String[] args) {
-        System.out.println("aaaa");
+        System.out.println("abab");
     }
 
     @Test
